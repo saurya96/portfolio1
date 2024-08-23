@@ -12,7 +12,7 @@ body {
     line-height: 1.6;
     background-color: #f4f4f4;
     color: #333;
-    background-image:url("abstract-pastel-color-background-with-blank-space-vector.jpg");
+    background-image:url("image/abstract-pastel-color-background-with-blank-space-vector.jpg");
 }
 
 .container {
@@ -20,7 +20,7 @@ body {
     max-width: 1100px;
     margin: 0 auto;
     padding: 20px;
-    background-image:url("abstract-pastel-color-background-with-blank-space-vector.jpg");
+    background-image:url("image/abstract-pastel-color-background-with-blank-space-vector.jpg");
 }
 
 .container img{
@@ -73,7 +73,7 @@ header .subtitle {
     background: #fff;
     padding: 40px 0;
     text-align: center;
-    background-image: url("abstract-pastel-color-background-with-blank-space-vector.jpg");
+    background-image: url("image/abstract-pastel-color-background-with-blank-space-vector.jpg");
 }
 
 #portfolio h2 {
@@ -122,7 +122,7 @@ header .subtitle {
     background: #f4f4f4;
     padding: 40px 0;
     text-align: center;
-    background-image: url("abstract-pastel-color-background-with-blank-space-vector.jpg");
+    background-image: url("image/abstract-pastel-color-background-with-blank-space-vector.jpg");
     
 }
 
